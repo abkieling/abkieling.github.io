@@ -5,12 +5,12 @@
     
     
     
-    <link>abkieling.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Alexandre B. Kieling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="abkieling.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
